@@ -1,6 +1,6 @@
-# SingleBoard
+# OneBoard
 
-SingleBoard is a 19 key macropad with a rotary encoder. It uses QMK firmware running on a RP2040.
+OneBoard is a 19 key keyboard with a rotary encoder. It uses QMK firmware running on a RP2040.
 
 
 ## Features:
@@ -13,7 +13,7 @@ We use 4 M3 Bolts and heatset inserts to put everything together. In total it ha
 
 <img src=Assets/Full.png alt="Schematic" width="500"/>
 
-Made using Onshape.
+Made using Onshape: https://cad.onshape.com/documents/e6a77505b9b66916f410a9e2/w/3fad1cba9b12220fb1d6acfb/e/3a9642192f18001e0b7e9c0b?renderMode=0&uiState=69bc452a0bbfb517c13afba3
 
 ## PCB
 My PCB made in Kicad. I used KLE to design the keyboard layout and used a plugin to get everything laid out.
@@ -34,8 +34,8 @@ This hackpad uses [QMK](https://qmk.fm/) firmware for everything.
 
 ## BOM:
 All the materials needed for this hackpad:
-- 19x Cherry MX Switches
-- 19x DSA Keycaps
+- 19x Cherry MX Switches (16 supplied by Hackclub)
+- 19x DSA Keycaps (16 supplied by Hackclub)
 - 4x M3x5x4 Heatset inserts
 - 4x M3x16mm SHCS Bolts
 - 20x 1N4148 DO-35 Diodes.
