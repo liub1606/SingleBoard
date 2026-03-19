@@ -14707,6 +14707,28 @@
 		(layer "Edge.Cuts")
 		(uuid "7942bc0d-d155-47ba-8394-bebe4b988c15")
 	)
+	(gr_circle
+		(center 110 60)
+		(end 113 60)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "fb430398-7531-4954-8568-590d78d047f3")
+	)
+	(gr_circle
+		(center 223 149)
+		(end 226 149)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "43e73200-6089-4ed6-b23f-37fc76d7f6a6")
+	)
 	(gr_text "Seeed Studio"
 		(at 212.2225 60.66 0)
 		(layer "F.SilkS")
